@@ -1,0 +1,13 @@
+#selectable div {
+	width : 150px;
+	height : 30px;
+	padding : 10px;
+	margin : 10px;
+	border : 1px solid;
+}
+#selectable div.ui-selecting {
+	background: blue;
+}
+#selectable div.ui-selected {
+	background: lightblue;
+}
